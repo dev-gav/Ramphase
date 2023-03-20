@@ -1,4 +1,4 @@
-- 🙋‍♂️ Hi, I’m Gavin aka @dev-gav
-- 👾 I’m interested in Unity game development
-- 💻 I’m currently an undergrad comp sci student at UCF
-- 📫 Contact me at gavbarb1@gmail.com
+- 🙋‍♂️ Hi there! I’m Gavin aka @dev-gav
+- 🧠 I’m interested in full-stack and game development
+- 💻 I’m currently a computer science student at UCF
+- 📫 Feel free to reach out to me at gavbarb1@gmail.com
