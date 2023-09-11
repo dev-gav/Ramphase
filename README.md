@@ -1,4 +1,4 @@
 - 🙋‍♂️ Hi there! I’m Gavin aka @dev-gav
-- 🧠 I’m interested in Full Stack and game development
-- 💻 I’m currently looking for new Software Engineering opportunities
+- 🧠 I’m interested in full-stack and game development
+- 💻 I’m currently looking for Software Engineering opportunities
 - 📫 Feel free to reach out to me at gavbarb1@gmail.com
