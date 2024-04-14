@@ -1,4 +1,4 @@
 - 🙋‍♂️ Hi there! I’m Gavin aka @dev-gav
 - 🧠 I’m interested in full-stack and game development
-- 💻 I’m currently looking for Software Engineering opportunities
+- 💻 I’m currently a Software Developer @ TipHaus
 - 📫 Feel free to reach out to me at gavbarb1@gmail.com
